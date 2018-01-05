@@ -1,0 +1,5 @@
+C:\Users\TwiceNo.1\Documents\Visual Studio 2015\Projects\FormFactory\FormLibrary\bin\Debug\FormLibrary.dll
+C:\Users\TwiceNo.1\Documents\Visual Studio 2015\Projects\FormFactory\FormLibrary\bin\Debug\FormLibrary.pdb
+C:\Users\TwiceNo.1\Documents\Visual Studio 2015\Projects\FormFactory\FormLibrary\obj\Debug\FormLibrary.csprojResolveAssemblyReference.cache
+C:\Users\TwiceNo.1\Documents\Visual Studio 2015\Projects\FormFactory\FormLibrary\obj\Debug\FormLibrary.dll
+C:\Users\TwiceNo.1\Documents\Visual Studio 2015\Projects\FormFactory\FormLibrary\obj\Debug\FormLibrary.pdb
